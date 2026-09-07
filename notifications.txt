@@ -1,0 +1,3 @@
+Step 1: basic notification setup
+Step 2: add email notifications
+Step 3: add push notifications
