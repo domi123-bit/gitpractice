@@ -1,3 +1,7 @@
 Placeholder for log out feature
+<<<<<<< HEAD
 Another main update
+=======
 Logout feature in progress
+
+>>>>>>> 48c96bf (Add logout feature draft)
