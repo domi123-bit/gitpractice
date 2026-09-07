@@ -1,0 +1,13 @@
+# Environment variables / secrets
+.env
+*.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode/
